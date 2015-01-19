@@ -1,7 +1,7 @@
 {
   "name": "billboard",
   "version": "1.0.0",
-  "description": "Put a little signage around your console or Yeoman logs.",
+  "description": "Put a little signage around your message.",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
